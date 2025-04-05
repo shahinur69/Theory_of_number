@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+// gcd --- greatest common divisor
 int gcd(int a, int b)
 {
     if(b == 0)
